@@ -1,0 +1,10 @@
+name: zombiePlugin
+version: 1.0
+author: DaTreeBros
+main: com.DaTreeBros.zombiePlugin.zombiePlugin
+api-version: 1.14
+commands:
+  startZombie:
+    description: Starts the Apocolpyse
+    usage: /<command>
+    aliases:
